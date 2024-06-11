@@ -28,6 +28,7 @@ The Sorting Machine is designed to automate the process of sorting objects. It u
 - Nada Mostafa Ali
 - Basmala Ehab
 - Mohamed Elrefaey
+- Sama Mohamed
 - Marwan Helal
 
 ## Getting Started
